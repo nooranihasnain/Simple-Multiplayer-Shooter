@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: ec65aafa7a5dace4f9b7a98bf47b23eb
+timeCreated: 1558598768
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: boxdetailLeft
+    100002: boxdetailRight
+    100004: BoxLeft
+    100006: BoxLeft001
+    100008: //RootNode
+    100010: Dome_light
+    100012: eye_socket
+    100014: foundation
+    100016: Head
+    100018: Neck_cell
+    100020: neckpart
+    100022: neckpart_rings
+    100024: Spheres
+    100026: The_eye
+    100028: The_gun
+    100030: The_Plunger_arm
+    100032: The_Shoulders
+    100034: The_skirt
+    100036: The_slats
+    100038: Tube004
+    400000: boxdetailLeft
+    400002: boxdetailRight
+    400004: BoxLeft
+    400006: BoxLeft001
+    400008: //RootNode
+    400010: Dome_light
+    400012: eye_socket
+    400014: foundation
+    400016: Head
+    400018: Neck_cell
+    400020: neckpart
+    400022: neckpart_rings
+    400024: Spheres
+    400026: The_eye
+    400028: The_gun
+    400030: The_Plunger_arm
+    400032: The_Shoulders
+    400034: The_skirt
+    400036: The_slats
+    400038: Tube004
+    2100000: boxdetailLeftMat
+    2100002: boxdetailRightMat
+    2100004: BoxLeftMat
+    2100006: BoxLeft001Mat
+    2100008: Dome_lightMat
+    2100010: eye_socketMat
+    2100012: foundationMat
+    2100014: HeadMat
+    2100016: Neck_cellMat
+    2100018: neckpartMat
+    2100020: neckpart_ringsMat
+    2100022: SpheresMat
+    2100024: The_eyeMat
+    2100026: The_gunMat
+    2100028: The_Plunger_armMat
+    2100030: The_ShouldersMat
+    2100032: The_skirtMat
+    2100034: The_slatsMat
+    2100036: Tube004Mat
+    2300000: boxdetailLeft
+    2300002: boxdetailRight
+    2300004: BoxLeft
+    2300006: BoxLeft001
+    2300008: Dome_light
+    2300010: eye_socket
+    2300012: foundation
+    2300014: Head
+    2300016: Neck_cell
+    2300018: neckpart
+    2300020: neckpart_rings
+    2300022: Spheres
+    2300024: The_eye
+    2300026: The_gun
+    2300028: The_Plunger_arm
+    2300030: The_Shoulders
+    2300032: The_skirt
+    2300034: The_slats
+    2300036: Tube004
+    3300000: boxdetailLeft
+    3300002: boxdetailRight
+    3300004: BoxLeft
+    3300006: BoxLeft001
+    3300008: Dome_light
+    3300010: eye_socket
+    3300012: foundation
+    3300014: Head
+    3300016: Neck_cell
+    3300018: neckpart
+    3300020: neckpart_rings
+    3300022: Spheres
+    3300024: The_eye
+    3300026: The_gun
+    3300028: The_Plunger_arm
+    3300030: The_Shoulders
+    3300032: The_skirt
+    3300034: The_slats
+    3300036: Tube004
+    4300000: boxdetailLeft
+    4300002: boxdetailRight
+    4300004: BoxLeft
+    4300006: BoxLeft001
+    4300008: Dome_light
+    4300010: eye_socket
+    4300012: foundation
+    4300014: Head
+    4300016: Neck_cell
+    4300018: neckpart
+    4300020: neckpart_rings
+    4300022: Spheres
+    4300024: The_eye
+    4300026: The_gun
+    4300028: The_Plunger_arm
+    4300030: The_Shoulders
+    4300032: The_skirt
+    4300034: The_slats
+    4300036: Tube004
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BoxLeft001Mat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BoxLeftMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dome_lightMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HeadMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neck_cellMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SpheresMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The_Plunger_armMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The_ShouldersMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The_eyeMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The_gunMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The_skirtMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The_slatsMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tube004Mat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boxdetailLeftMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boxdetailRightMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye_socketMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foundationMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: neckpartMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: neckpart_ringsMat
+    second: {fileID: 2100000, guid: 20c2c861010d0ce49a4716087f02535e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
